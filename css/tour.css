@@ -1,0 +1,77 @@
+.tour
+{
+    background-color: #9bb39a;
+    height: 90vh;
+    width: 100%;
+}
+
+.iago
+{
+    border: 1px solid white;
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    padding: 3rem;
+}
+
+.iago > div
+{
+    margin: 2rem;
+}
+
+.tourTitulo, .tourSubtitulo
+{
+    text-align: center;
+}
+
+.tourTabela
+{
+    background-color: #dea03b;
+    color: black;
+}
+
+.parte1, .parte2, .parte3
+
+{
+    padding: 0.5rem;
+}
+
+.parte1, .parte2
+{
+    border-bottom: 0.5px solid black;
+}
+
+.tourImagens
+{
+    height: 100%;
+    display: flex;
+}
+
+.tourimagem1, .tourimagem2, .tourimagem3
+{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 300px;
+    height: 400px;
+    margin: 1rem;
+    background-color: aliceblue;
+    text-align:center;
+}
+
+img
+{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+   
+}
+
+ .aerrada
+{
+    height: 175px;
+}
+
+.data
+{
+    color: gray;
+}
